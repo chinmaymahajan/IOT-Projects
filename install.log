@@ -1,0 +1,385 @@
+[Mon 24 Oct 21:58:06 UTC 2016] Configuring installation for detected distro='raspbian'
+Installing ffmpeg...
+Installation failed, trying libav-tools...
+Selecting previously unselected package libavdevice55:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 121734 files and directories currently installed.)
+Preparing to unpack .../libavdevice55_6%3a11.8-1~deb8u1+rpi1_armhf.deb ...
+Unpacking libavdevice55:armhf (6:11.8-1~deb8u1+rpi1) ...
+Selecting previously unselected package libavfilter5:armhf.
+Preparing to unpack .../libavfilter5_6%3a11.8-1~deb8u1+rpi1_armhf.deb ...
+Unpacking libavfilter5:armhf (6:11.8-1~deb8u1+rpi1) ...
+Selecting previously unselected package libav-tools.
+Preparing to unpack .../libav-tools_6%3a11.8-1~deb8u1+rpi1_armhf.deb ...
+Unpacking libav-tools (6:11.8-1~deb8u1+rpi1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up libavdevice55:armhf (6:11.8-1~deb8u1+rpi1) ...
+Setting up libavfilter5:armhf (6:11.8-1~deb8u1+rpi1) ...
+Setting up libav-tools (6:11.8-1~deb8u1+rpi1) ...
+Processing triggers for libc-bin (2.19-18+deb8u6) ...
+[Mon 24 Oct 21:58:50 UTC 2016] Preparing to install 18 packages on your system...
+[Mon 24 Oct 21:58:50 UTC 2016] Installing curl...
+[Mon 24 Oct 21:58:56 UTC 2016] Installing faad...
+Selecting previously unselected package faad.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 121829 files and directories currently installed.)
+Preparing to unpack .../archives/faad_2.7-8_armhf.deb ...
+Unpacking faad (2.7-8) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up faad (2.7-8) ...
+[Mon 24 Oct 21:59:27 UTC 2016] Installing flac...
+Selecting previously unselected package flac.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 121835 files and directories currently installed.)
+Preparing to unpack .../flac_1.3.0-3_armhf.deb ...
+Unpacking flac (1.3.0-3) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up flac (1.3.0-3) ...
+[Mon 24 Oct 21:59:56 UTC 2016] Installing gcc...
+[Mon 24 Oct 22:00:03 UTC 2016] Installing git...
+[Mon 24 Oct 22:00:09 UTC 2016] Installing lame...
+Selecting previously unselected package lame.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 121843 files and directories currently installed.)
+Preparing to unpack .../lame_3.99.5+repack1-7+deb8u1_armhf.deb ...
+Unpacking lame (3.99.5+repack1-7+deb8u1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up lame (3.99.5+repack1-7+deb8u1) ...
+[Mon 24 Oct 22:00:39 UTC 2016] Installing mpg123...
+Selecting previously unselected package mpg123.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 121849 files and directories currently installed.)
+Preparing to unpack .../mpg123_1.20.1-2_armhf.deb ...
+Unpacking mpg123 (1.20.1-2) ...
+Processing triggers for mime-support (3.58) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up mpg123 (1.20.1-2) ...
+update-alternatives: using /usr/bin/mpg123.bin to provide /usr/bin/mpg123 (mpg123) in auto mode
+update-alternatives: using /usr/bin/mpg123.bin to provide /usr/bin/mp3-decoder (mp3-decoder) in auto mode
+[Mon 24 Oct 22:01:14 UTC 2016] Installing make...
+[Mon 24 Oct 22:01:20 UTC 2016] Installing python-alsaaudio...
+Selecting previously unselected package python-alsaaudio.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 121888 files and directories currently installed.)
+Preparing to unpack .../python-alsaaudio_0.7-1_armhf.deb ...
+Unpacking python-alsaaudio (0.7-1) ...
+Setting up python-alsaaudio (0.7-1) ...
+[Mon 24 Oct 22:01:50 UTC 2016] Installing python-dev...
+Selecting previously unselected package libpython2.7-dev:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 121924 files and directories currently installed.)
+Preparing to unpack .../libpython2.7-dev_2.7.9-2+deb8u1_armhf.deb ...
+Unpacking libpython2.7-dev:armhf (2.7.9-2+deb8u1) ...
+Selecting previously unselected package libpython-dev:armhf.
+Preparing to unpack .../libpython-dev_2.7.9-1_armhf.deb ...
+Unpacking libpython-dev:armhf (2.7.9-1) ...
+Selecting previously unselected package python2.7-dev.
+Preparing to unpack .../python2.7-dev_2.7.9-2+deb8u1_armhf.deb ...
+Unpacking python2.7-dev (2.7.9-2+deb8u1) ...
+Selecting previously unselected package python-dev.
+Preparing to unpack .../python-dev_2.7.9-1_armhf.deb ...
+Unpacking python-dev (2.7.9-1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up libpython2.7-dev:armhf (2.7.9-2+deb8u1) ...
+Setting up libpython-dev:armhf (2.7.9-1) ...
+Setting up python2.7-dev (2.7.9-2+deb8u1) ...
+Setting up python-dev (2.7.9-1) ...
+[Mon 24 Oct 22:02:56 UTC 2016] Installing python-numpy...
+[Mon 24 Oct 22:03:03 UTC 2016] Installing python-pip...
+[Mon 24 Oct 22:03:10 UTC 2016] Installing python-setuptools...
+[Mon 24 Oct 22:03:17 UTC 2016] Installing unzip...
+[Mon 24 Oct 22:03:23 UTC 2016] Installing vorbis-tools...
+Selecting previously unselected package libao-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 122059 files and directories currently installed.)
+Preparing to unpack .../libao-common_1.1.0-3_armhf.deb ...
+Unpacking libao-common (1.1.0-3) ...
+Selecting previously unselected package libao4.
+Preparing to unpack .../libao4_1.1.0-3_armhf.deb ...
+Unpacking libao4 (1.1.0-3) ...
+Selecting previously unselected package vorbis-tools.
+Preparing to unpack .../vorbis-tools_1.4.0-6+deb8u1_armhf.deb ...
+Unpacking vorbis-tools (1.4.0-6+deb8u1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Processing triggers for mime-support (3.58) ...
+Setting up libao-common (1.1.0-3) ...
+Setting up libao4 (1.1.0-3) ...
+Setting up vorbis-tools (1.4.0-6+deb8u1) ...
+Processing triggers for libc-bin (2.19-18+deb8u6) ...
+[Mon 24 Oct 22:03:59 UTC 2016] Installing wiringpi...
+[Mon 24 Oct 22:04:05 UTC 2016] Installing cython...
+Selecting previously unselected package cython.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 122120 files and directories currently installed.)
+Preparing to unpack .../cython_0.21.1-1_armhf.deb ...
+Unpacking cython (0.21.1-1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up cython (0.21.1-1) ...
+[Mon 24 Oct 22:04:58 UTC 2016] Installing pianobar...
+Selecting previously unselected package libpiano0:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 122424 files and directories currently installed.)
+Preparing to unpack .../libpiano0_2014.06.08-1+b1_armhf.deb ...
+Unpacking libpiano0:armhf (2014.06.08-1+b1) ...
+Selecting previously unselected package pianobar.
+Preparing to unpack .../pianobar_2014.06.08-1+b1_armhf.deb ...
+Unpacking pianobar (2014.06.08-1+b1) ...
+Processing triggers for man-db (2.7.0.2-5) ...
+Setting up libpiano0:armhf (2014.06.08-1+b1) ...
+Setting up pianobar (2014.06.08-1+b1) ...
+Processing triggers for libc-bin (2.19-18+deb8u6) ...
+[Mon 24 Oct 22:05:34 UTC 2016] Installing decoder...
+Downloading/unpacking git+https://tom_slick@bitbucket.org/tom_slick/decoder.py.git
+  Cloning https://tom_slick@bitbucket.org/tom_slick/decoder.py.git to /tmp/pip-KuCqKJ-build
+  Running setup.py (path:/tmp/pip-KuCqKJ-build/setup.py) egg_info for package from git+https://tom_slick@bitbucket.org/tom_slick/decoder.py.git
+    
+Downloading/unpacking mutagen (from decoder.py==1.58XB)
+  Running setup.py (path:/tmp/pip-build-SHLsww/mutagen/setup.py) egg_info for package mutagen
+    
+    warning: no files found matching '*.png' under directory 'docs'
+    no previously-included directories found matching 'docs/_build'
+Installing collected packages: mutagen, decoder.py
+  Running setup.py install for mutagen
+    changing mode of build/scripts-2.7/mid3cp from 644 to 755
+    changing mode of build/scripts-2.7/mid3iconv from 644 to 755
+    changing mode of build/scripts-2.7/mid3v2 from 644 to 755
+    changing mode of build/scripts-2.7/moggsplit from 644 to 755
+    changing mode of build/scripts-2.7/mutagen-inspect from 644 to 755
+    changing mode of build/scripts-2.7/mutagen-pony from 644 to 755
+    
+    warning: no files found matching '*.png' under directory 'docs'
+    no previously-included directories found matching 'docs/_build'
+    changing mode of /usr/local/bin/mid3v2 to 755
+    changing mode of /usr/local/bin/mutagen-inspect to 755
+    changing mode of /usr/local/bin/mid3iconv to 755
+    changing mode of /usr/local/bin/mid3cp to 755
+    changing mode of /usr/local/bin/mutagen-pony to 755
+    changing mode of /usr/local/bin/moggsplit to 755
+  Running setup.py install for decoder.py
+    
+Successfully installed mutagen decoder.py
+Cleaning up...
+[Mon 24 Oct 22:06:06 UTC 2016] Preparing to install 5 python packages on your system...
+[Mon 24 Oct 22:06:06 UTC 2016] Installing Beautifulsoup via pip...
+Downloading/unpacking Beautifulsoup
+  Downloading BeautifulSoup-3.2.1.tar.gz
+  Running setup.py (path:/tmp/pip-build-JlK6FK/Beautifulsoup/setup.py) egg_info for package Beautifulsoup
+    
+Installing collected packages: Beautifulsoup
+  Running setup.py install for Beautifulsoup
+    
+Successfully installed Beautifulsoup
+Cleaning up...
+[Mon 24 Oct 22:06:28 UTC 2016] Installing mutagen via pip...
+Requirement already satisfied (use --upgrade to upgrade): mutagen in /usr/local/lib/python2.7/dist-packages
+Cleaning up...
+[Mon 24 Oct 22:06:33 UTC 2016] Installing simplejson via pip...
+Downloading/unpacking simplejson
+  Running setup.py (path:/tmp/pip-build-cojo4w/simplejson/setup.py) egg_info for package simplejson
+    
+Installing collected packages: simplejson
+  Running setup.py install for simplejson
+    building 'simplejson._speedups' extension
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c simplejson/_speedups.c -o build/temp.linux-armv6l-2.7/simplejson/_speedups.o
+    arm-linux-gnueabihf-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -Wl,-z,relro -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security build/temp.linux-armv6l-2.7/simplejson/_speedups.o -o build/lib.linux-armv6l-2.7/simplejson/_speedups.so
+    
+Successfully installed simplejson
+Cleaning up...
+[Mon 24 Oct 22:07:27 UTC 2016] Installing wiringpi2 via pip...
+Downloading/unpacking wiringpi2
+  Downloading wiringpi2-2.32.3.tar.gz
+  Running setup.py (path:/tmp/pip-build-0tX30T/wiringpi2/setup.py) egg_info for package wiringpi2
+    
+Downloading/unpacking wiringpi>=2.23.1 (from wiringpi2)
+  Running setup.py (path:/tmp/pip-build-0tX30T/wiringpi/setup.py) egg_info for package wiringpi
+    
+Installing collected packages: wiringpi2, wiringpi
+  Running setup.py install for wiringpi2
+    
+  Running setup.py install for wiringpi
+    building '_wiringpi' extension
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/piNes.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/piNes.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/piFace.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/piFace.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/maxdetect.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/maxdetect.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/ds1302.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/ds1302.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/lcd128x64.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/lcd128x64.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/lcd.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/lcd.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/gertboard.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/gertboard.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/piGlow.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/piGlow.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/devLib/scrollPhat.c -o build/temp.linux-armv6l-2.7/WiringPi/devLib/scrollPhat.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/softServo.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/softServo.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/sn3218.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/sn3218.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/drcSerial.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/drcSerial.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/sr595.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/sr595.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/ads1115.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/ads1115.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp23016.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23016.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/wiringSerial.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringSerial.o
+    WiringPi/wiringPi/wiringSerial.c: In function ‘serialPutchar’:
+    WiringPi/wiringPi/wiringSerial.c:146:3: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result [-Wunused-result]
+       write (fd, &c, 1) ;
+       ^
+    WiringPi/wiringPi/wiringSerial.c: In function ‘serialPuts’:
+    WiringPi/wiringPi/wiringSerial.c:158:3: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result [-Wunused-result]
+       write (fd, s, strlen (s)) ;
+       ^
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp3422.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp3422.o
+    WiringPi/wiringPi/mcp3422.c: In function ‘waitForConversion’:
+    WiringPi/wiringPi/mcp3422.c:50:5: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result [-Wunused-result]
+         read (fd, buffer, n) ;
+         ^
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/piThread.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/piThread.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp23s17.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23s17.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/softPwm.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/softPwm.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/pcf8591.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/pcf8591.o
+    WiringPi/wiringPi/pcf8591.c: In function ‘myAnalogWrite’:
+    WiringPi/wiringPi/pcf8591.c:44:3: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result [-Wunused-result]
+       write (node->fd, b, 2) ;
+       ^
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp23s08.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23s08.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/wiringPiSPI.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringPiSPI.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp23017.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23017.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp3002.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp3002.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/wpiExtensions.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wpiExtensions.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp4802.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp4802.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp3004.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp3004.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/max5322.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/max5322.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/pcf8574.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/pcf8574.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/piHiPri.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/piHiPri.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/wiringPiI2C.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringPiI2C.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/wiringShift.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringShift.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/max31855.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/max31855.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/wiringPi.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringPi.o
+    WiringPi/wiringPi/wiringPi.c: In function ‘digitalRead’:
+    WiringPi/wiringPi/wiringPi.c:1458:7: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result [-Wunused-result]
+           read   (sysFds [pin], &c, 1) ;
+           ^
+    WiringPi/wiringPi/wiringPi.c: In function ‘digitalWrite’:
+    WiringPi/wiringPi/wiringPi.c:1499:4: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result [-Wunused-result]
+        write (sysFds [pin], "0\n", 2) ;
+        ^
+    WiringPi/wiringPi/wiringPi.c:1501:4: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result [-Wunused-result]
+        write (sysFds [pin], "1\n", 2) ;
+        ^
+    WiringPi/wiringPi/wiringPi.c: In function ‘waitForInterrupt’:
+    WiringPi/wiringPi/wiringPi.c:1785:3: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result [-Wunused-result]
+       (void)read (fd, &c, 1) ;
+       ^
+    WiringPi/wiringPi/wiringPi.c: In function ‘wiringPiISR’:
+    WiringPi/wiringPi/wiringPi.c:1901:5: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result [-Wunused-result]
+         read (sysFds [bcmGpioPin], &c, 1) ;
+         ^
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/mcp23008.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23008.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c WiringPi/wiringPi/softTone.c -o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/softTone.o
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -IWiringPi/wiringPi -IWiringPi/devLib -I/usr/include/python2.7 -c wiringpi_wrap.c -o build/temp.linux-armv6l-2.7/wiringpi_wrap.o
+    In file included from wiringpi_wrap.c:2972:0:
+    WiringPi/wiringPi/mcp23x0817.h:82:0: warning: "IOCON_INIT" redefined
+     #define IOCON_INIT (IOCON_SEQOP)
+     ^
+    In file included from wiringpi_wrap.c:2968:0:
+    WiringPi/wiringPi/mcp23016reg.h:48:0: note: this is the location of the previous definition
+     #define IOCON_INIT 0
+     ^
+    In file included from wiringpi_wrap.c:2986:0:
+    WiringPi/devLib/font.h:15:22: warning: ‘font’ defined but not used [-Wunused-variable]
+     static unsigned char font [] =
+                          ^
+    wiringpi_wrap.c: In function ‘_wrap_lcdCharDef’:
+    wiringpi_wrap.c:7667:5: warning: ‘arg3’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+         free((unsigned char *) arg3);
+         ^
+    arm-linux-gnueabihf-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -Wl,-z,relro -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security build/temp.linux-armv6l-2.7/WiringPi/devLib/piNes.o build/temp.linux-armv6l-2.7/WiringPi/devLib/piFace.o build/temp.linux-armv6l-2.7/WiringPi/devLib/maxdetect.o build/temp.linux-armv6l-2.7/WiringPi/devLib/ds1302.o build/temp.linux-armv6l-2.7/WiringPi/devLib/lcd128x64.o build/temp.linux-armv6l-2.7/WiringPi/devLib/lcd.o build/temp.linux-armv6l-2.7/WiringPi/devLib/gertboard.o build/temp.linux-armv6l-2.7/WiringPi/devLib/piGlow.o build/temp.linux-armv6l-2.7/WiringPi/devLib/scrollPhat.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/softServo.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/sn3218.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/drcSerial.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/sr595.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/ads1115.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23016.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringSerial.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp3422.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/piThread.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23s17.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/softPwm.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/pcf8591.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23s08.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringPiSPI.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23017.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp3002.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wpiExtensions.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp4802.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp3004.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/max5322.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/pcf8574.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/piHiPri.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringPiI2C.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringShift.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/max31855.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/wiringPi.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/mcp23008.o build/temp.linux-armv6l-2.7/WiringPi/wiringPi/softTone.o build/temp.linux-armv6l-2.7/wiringpi_wrap.o -o build/lib.linux-armv6l-2.7/_wiringpi.so
+    
+Successfully installed wiringpi2 wiringpi
+Cleaning up...
+[Mon 24 Oct 22:10:03 UTC 2016] Installing pygooglevoice via pip...
+Downloading/unpacking pygooglevoice
+  Downloading PyGoogleVoice-0.5.2.tar.gz
+  Running setup.py (path:/tmp/pip-build-FyD9jh/pygooglevoice/setup.py) egg_info for package pygooglevoice
+    
+Downloading/unpacking ConfigParser (from pygooglevoice)
+  Downloading configparser-3.5.0.tar.gz
+  Running setup.py (path:/tmp/pip-build-FyD9jh/ConfigParser/setup.py) egg_info for package ConfigParser
+    
+Installing collected packages: pygooglevoice, ConfigParser
+  Running setup.py install for pygooglevoice
+    changing mode of build/scripts-2.7/gvoice from 644 to 755
+    changing mode of build/scripts-2.7/asterisk-gvoice-setup from 644 to 755
+    changing mode of build/scripts-2.7/gvi from 644 to 755
+    
+    changing mode of /usr/local/bin/gvoice to 755
+    changing mode of /usr/local/bin/asterisk-gvoice-setup to 755
+    changing mode of /usr/local/bin/gvi to 755
+  Running setup.py install for ConfigParser
+    
+    Skipping installation of /usr/local/lib/python2.7/dist-packages/backports/__init__.py (namespace package)
+    Installing /usr/local/lib/python2.7/dist-packages/configparser-3.5.0-nspkg.pth
+Successfully installed pygooglevoice ConfigParser
+Cleaning up...
+[Mon 24 Oct 22:10:25 UTC 2016] Installing rpi-audio-levels...
+Downloading/unpacking git+https://tom_slick@bitbucket.org/tom_slick/rpi-audio-levels.git
+  Cloning https://tom_slick@bitbucket.org/tom_slick/rpi-audio-levels.git to /tmp/pip-vc__aP-build
+  Running setup.py (path:/tmp/pip-vc__aP-build/setup.py) egg_info for package from git+https://tom_slick@bitbucket.org/tom_slick/rpi-audio-levels.git
+    
+Requirement already satisfied (use --upgrade to upgrade): cython>=0.19.1 in /usr/lib/python2.7/dist-packages (from rpi-audio-levels==0.1.1)
+Requirement already satisfied (use --upgrade to upgrade): numpy in /usr/lib/python2.7/dist-packages (from rpi-audio-levels==0.1.1)
+Installing collected packages: rpi-audio-levels
+  Running setup.py install for rpi-audio-levels
+    cythoning src/rpi_audio_levels.pyx to src/rpi_audio_levels.c
+    building 'rpi_audio_levels' extension
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c src/rpi_audio_levels.c -o build/temp.linux-armv6l-2.7/src/rpi_audio_levels.o -I/opt/vc/src/hello_pi/hello_fft/
+    In file included from /usr/include/python2.7/numpy/ndarraytypes.h:1761:0,
+                     from /usr/include/python2.7/numpy/ndarrayobject.h:17,
+                     from /usr/include/python2.7/numpy/arrayobject.h:4,
+                     from src/rpi_audio_levels.c:239:
+    /usr/include/python2.7/numpy/npy_1_7_deprecated_api.h:15:2: warning: #warning "Using deprecated NumPy API, disable it by " "#defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION" [-Wcpp]
+     #warning "Using deprecated NumPy API, disable it by " \
+      ^
+    In file included from /usr/include/python2.7/numpy/ndarrayobject.h:26:0,
+                     from /usr/include/python2.7/numpy/arrayobject.h:4,
+                     from src/rpi_audio_levels.c:239:
+    /usr/include/python2.7/numpy/__multiarray_api.h:1629:1: warning: ‘_import_array’ defined but not used [-Wunused-function]
+     _import_array(void)
+     ^
+    In file included from /usr/include/python2.7/numpy/ufuncobject.h:327:0,
+                     from src/rpi_audio_levels.c:240:
+    /usr/include/python2.7/numpy/__ufunc_api.h:241:1: warning: ‘_import_umath’ defined but not used [-Wunused-function]
+     _import_umath(void)
+     ^
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c src/_rpi_audio_levels.c -o build/temp.linux-armv6l-2.7/src/_rpi_audio_levels.o -I/opt/vc/src/hello_pi/hello_fft/
+    In file included from src/_rpi_audio_levels.c:10:0:
+    /opt/vc/src/hello_pi/hello_fft/mailbox.h:34:1: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+     int mbox_open();
+     ^
+    src/_rpi_audio_levels.c:37:6: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+     void QueueRelease()
+          ^
+    src/_rpi_audio_levels.c: In function ‘QueueRelease’:
+    src/_rpi_audio_levels.c:39:11: warning: unused variable ‘j’ [-Wunused-variable]
+         int i,j;
+               ^
+    src/_rpi_audio_levels.c: At top level:
+    src/_rpi_audio_levels.c:52:8: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+     float* QueuePop()
+            ^
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c /opt/vc/src/hello_pi/hello_fft/gpu_fft_base.c -o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_base.o -I/opt/vc/src/hello_pi/hello_fft/
+    In file included from /opt/vc/src/hello_pi/hello_fft/gpu_fft_base.c:32:0:
+    /opt/vc/src/hello_pi/hello_fft/mailbox.h:34:1: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+     int mbox_open();
+     ^
+    /opt/vc/src/hello_pi/hello_fft/gpu_fft_base.c: In function ‘gpu_fft_base_exec_direct’:
+    /opt/vc/src/hello_pi/hello_fft/gpu_fft_base.c:92:17: warning: unused variable ‘t’ [-Wunused-variable]
+         unsigned q, t;
+                     ^
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c /opt/vc/src/hello_pi/hello_fft/gpu_fft.c -o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft.o -I/opt/vc/src/hello_pi/hello_fft/
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c /opt/vc/src/hello_pi/hello_fft/gpu_fft_shaders.c -o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_shaders.o -I/opt/vc/src/hello_pi/hello_fft/
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c /opt/vc/src/hello_pi/hello_fft/gpu_fft_twiddles.c -o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_twiddles.o -I/opt/vc/src/hello_pi/hello_fft/
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c /opt/vc/src/hello_pi/hello_fft/gpu_fft_trans.c -o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_trans.o -I/opt/vc/src/hello_pi/hello_fft/
+    arm-linux-gnueabihf-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -I/usr/include/python2.7 -c /opt/vc/src/hello_pi/hello_fft/mailbox.c -o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/mailbox.o -I/opt/vc/src/hello_pi/hello_fft/
+    In file included from /opt/vc/src/hello_pi/hello_fft/mailbox.c:38:0:
+    /opt/vc/src/hello_pi/hello_fft/mailbox.h:34:1: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+     int mbox_open();
+     ^
+    /opt/vc/src/hello_pi/hello_fft/mailbox.c:243:5: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+     int mbox_open() {
+         ^
+    arm-linux-gnueabihf-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -Wl,-z,relro -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security build/temp.linux-armv6l-2.7/src/rpi_audio_levels.o build/temp.linux-armv6l-2.7/src/_rpi_audio_levels.o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_base.o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft.o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_shaders.o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_twiddles.o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/gpu_fft_trans.o build/temp.linux-armv6l-2.7/opt/vc/src/hello_pi/hello_fft/mailbox.o -o build/lib.linux-armv6l-2.7/rpi_audio_levels.so -lrt -lm
+    
+Successfully installed rpi-audio-levels
+Cleaning up...
+
+
+All done! Reboot your Raspberry Pi before running lightshowPi.
+Run the following command to test your installation and hardware setup:
+
+    sudo python /home/pi/lightshowpi/py/hardware_controller.py --state=flash
+
